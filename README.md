@@ -1,4 +1,14 @@
-<div align="center">
+> ### 📌 Archived reference
+>
+> Built **2023** during the Clarusway AWS DevOps curriculum. Kept public as a reference for the patterns I use day-to-day.
+>
+> React + TypeScript film/movie app, containerized with Docker, wired through a Jenkinsfile pipeline, and deployable to Kubernetes. Built in 2023 as an end-to-end CI/CD exercise on a non-trivial frontend.
+>
+> **Stack:** React · TypeScript · Vite · Docker · Jenkins · Kubernetes
+>
+> ➡️ **Current work:** my portfolio at **[https://omerdengiz.com](https://omerdengiz.com)** — a static site on AWS S3 + CloudFront + Lambda@Edge, provisioned with Terraform across two AWS accounts.
+
+---<div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
   <br>
